@@ -28,7 +28,7 @@ I am a quantitative sustainability analyst with a foundation in international cl
 
 ### 💻 Featured Modeling & Analytics Work
 
-* 🔋 **[pypsa-island-microgrid](Link-to-your-repo):** A localized energy distribution model utilizing PyPSA. This repository details the step-by-step code structure for simulating microgrid resilience scenarios.
+*    **[grid-decarbonization-milp](https://github.com/tamanna-sengupta/grid-decarbonization-milp):** A Pyomo MILP model evaluating capacity expansion and economic dispatch under potential carbon dioxide emissions cap policies.
 * 🗺️ **Coming up:** A geospatial-analytical framework built with Python (Pandas, NumPy) and GIS to evaluate the intersection of energy infrastructure and socioeconomic variables in Michigan. *Findings presented at AAG 2026.*
 
 *(Note: Most of my B2B SaaS platform delivery and COP28 climate risk data models are housed in private enterprise repositories. I am progressively developing other recent projects into Github repositories.)*
