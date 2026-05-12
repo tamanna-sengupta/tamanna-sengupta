@@ -6,7 +6,7 @@ I am a quantitative sustainability analyst with a foundation in international cl
 
 🌱 Currently: Graduating in May 2026 and open to work in US-based climate risk analytics and ESG consulting. Based in Ann Arbor, MI—open to relocation.
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/tamanna-sengupta/) | [sengupta.tamanna@gmail.com](mailto:sengupta.tamanna@gmail.com)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/tamanna-sengupta/) | [sengupta.tamanna@gmail.com](mailto:sengupta.tamanna@gmail.com) | [📄 View My Resume](https://github.com/tamanna-sengupta/tamanna-sengupta/blob/main/Tamanna%20Sengupta%20Resume.docx.pdf)
 
 ---
 
